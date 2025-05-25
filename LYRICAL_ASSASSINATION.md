@@ -1,9 +1,3 @@
-thanks.  here were the full lyrics.. some changed a lot didn't actually make it in... maybe a second track will have to be made. :-) 
-
-
-i regret wasting the filesystem diss with "like yo filesystem you fat" instead of going with the much more brutal reiserfs reference you'll find below (which would be lost on anyone that does not know the hans reiser murder saga anyway)
-
-but here's the verses plus some extras. i know you get the references but in case it wasn't clear enough to hear in the song. 
 
 --
 first name uid last name zero 
