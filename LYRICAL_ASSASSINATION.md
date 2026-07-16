@@ -12,7 +12,8 @@ enable!
 like cisco 
 not the rapper but the router 
 hit the bar 
-like the space but in outer where them girlies 
+like the space but in outer
+where them girlies 
 throwin digits after me 
 efficient 
 like Erastothenes 
@@ -26,8 +27,7 @@ spit a BAR?
 nah FOO! 
 
 parallel superscalar and virtual 
-NLP 
-Python 
+NLP, Python 
 get it on 
 listen to me throw 
 all the wisdom i bestow 
@@ -36,7 +36,7 @@ maybe go
 by and large 
 i undercharge 
 my intellect 
-don't bother double check 
+don't bother double checked 
 don't gotta guess or recollect 
 pop a shell 
 strace 
@@ -44,14 +44,13 @@ yo face
 condition i race 
 whoami 
 zero uid 
-who 
-last 
-double you
-I-D Zero
+who; last; w
+-I-D Zero
 process hero
 you knew then
 I'll be rootin
-no place like localhost
+no place like
+localhost
 loopback 
 this track
 find me back 
@@ -82,8 +81,7 @@ can't even crack
 you just a bragger
 can't rpm -i  my swagger
 reppin my seniority
-top
-highest priority
+top - highest priority
 can't sudo me 
 i'm setuid
 i won't ping back
@@ -98,8 +96,10 @@ you a beginner
 
 [break]
 
-wrote my first code in a telnet session
-You in a browser askin'  LLM questions
+wrote my first code
+in a telnet session
+You in a browser askin'
+LLM questions
 my system uptime
 longer than your whole career
 you sweat downtime, 
