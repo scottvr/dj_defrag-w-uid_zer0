@@ -30,7 +30,7 @@ don't gotta guess or recollect.
 Pop a shell,  `strace` in your face.
 Condition, I race.
 whoami 
-/dev/zeroi, ui, uid, who? 
+/dev/zero, ui, uid, who? 
 last; who; w  
 (u)id 0
 process hero
