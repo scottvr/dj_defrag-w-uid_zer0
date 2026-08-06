@@ -5,7 +5,7 @@ dum-dum
 [1.1]
 First name UID last name 0
 In /etc/shadow, I'll make it clear. oh
-you still sudo; I just do though.
+you still sudo; I just *do* though.
 Things I do, you ain't able.
 Like Windows, you unstable.
 enable, like Cisco - 
