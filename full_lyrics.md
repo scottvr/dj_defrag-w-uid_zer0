@@ -212,7 +212,7 @@ I chown the throne,
 now your shell rejected
 Trying to fork, you getting SIGSTOP
 Nothing left, 
-you got EOF
+you got EOF'd
 kill, nice, hangup, shutdown,
 trap, abort,
 break, 
